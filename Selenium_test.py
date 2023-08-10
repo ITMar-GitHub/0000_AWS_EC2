@@ -37,5 +37,5 @@ while True:
     chat_id='-949260927'
     BOT_TOKEN = '5916112518:AAHa5nPZtsMYdvxt-Ow5Z5gq-T6TMnWD1Fw'
     bot_message = 'AWS EC2 Running'
-    telegram_bot_sendtext(bot_message, BOT_TOKEN, chat_id)
+    telegram_bot_sendtext(bot_message, BOT_TOKEN, chat_id,'')
     time.sleep(120)
